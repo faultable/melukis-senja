@@ -45,12 +45,14 @@
 
     rafId = requestAnimationFrame(nextTick)
   })
+
   onDestroy(() => {
     cancelAnimationFrame(rafId)
 
     analyser.disconnect()
     source.disconnect()
   })
+
   function start() {
     const target = document.body
 
