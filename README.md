@@ -8,17 +8,3 @@ terdapat beberapa peningkatan, seperti:
 - Refactor kecil untuk membuat kode menjadi lebih mudah dimengerti
 
 Music by [Budi Doremi - Melukis Senja](https://www.youtube.com/watch?v=qZIQAk-BUEc). Please buy this song on [iTunes](https://music.apple.com/id/album/melukis-senja-single/1520143992) if you like it!
-
-[![Screenshot](https://ipfs.koalafy.dev/ipfs/QmbQ7U8Yb4KFx4EU4bJJdugExRVStRbmBeKpYQXVm3kF26)](https://melukis-senja.koalafy.dev)
-
-<p align="center">
-  https://melukis-senja.koalafy.dev
-</p>
-
----
-
-<div align="center">
-
-Powered by [Svelte](https://svelte.dev) hosted on [edgy](https://koalafy.dev), background image by Tom Fisk from [Pexels](https://www.pexels.com/photo/photo-of-buildings-during-dawn-3441728/)
-
-</div>
